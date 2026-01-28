@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+~*.twb*
+*.tmp
+ga4_obfuscated_sample_ecommerce.events.csv
+tannico_events.csv
+ga4_obfuscated_sample_ecommerce.events.csv
+tannico_events.csv
+.DS_Store
+*.twbr
